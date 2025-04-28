@@ -18,7 +18,11 @@ In this example, we create a Lambda function that identifies EBS snapshots that 
   
 This helps in **optimizing storage costs** and keeps the cloud environment clean and efficient.
 
+
 ---
+
+## Architecture
+![Architecture Diagram](Architecture.png)
 
 ## How It Works
 - **CloudWatch** triggers the Lambda function based on a schedule.
@@ -53,8 +57,7 @@ This helps in **optimizing storage costs** and keeps the cloud environment clean
 
 ---
 
-## Architecture
-![Architecture Diagram](architecture.png)
+
 
 ---
 
